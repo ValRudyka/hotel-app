@@ -1,3 +1,11 @@
+# Hotel "Wild oasis"
+
+This is an internal application, where users can manage everything about hotel: bookings, cabins, guests. Each user is an employee,
+
+who have next opportunities: check in guests, check out them, create bookings, registrate their colleagues. API was built with usage of
+
+Supabase. Stay management: contexts. Styling: styled-components.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
