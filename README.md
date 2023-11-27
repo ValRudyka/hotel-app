@@ -1,4 +1,4 @@
-# Hotel "Wild oasis"
+# Hotel management app
 
 This is an internal application, where users can manage everything about hotel: bookings, cabins, guests. Each user is an employee,
 
