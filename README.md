@@ -1,10 +1,8 @@
 # Hotel management app
 
-This is an internal application, where users can manage everything about hotel: bookings, cabins, guests. Each user is an employee,
+This is an internal application, where users can manage everything about hotel: bookings, cabins, guests. Each user is an employee, who have next opportunities: check in guests, check out them, create bookings, registrate their colleagues. API was built with usage of Supabase. Stay management: contexts. Styling: styled-components.
 
-who have next opportunities: check in guests, check out them, create bookings, registrate their colleagues. API was built with usage of
-
-Supabase. Stay management: contexts. Styling: styled-components.
+You should try entering the app using next account: gmail (tester.example@gmail.com) password: word0987pass
 
 # React + Vite
 
